@@ -5,10 +5,14 @@ File: template.py
 Name: Tem Tamre
 
 Description: Template file to be issued for each individual assignment
+Sources: https://www.python.org/
 """
 
 import random
 import math
+
+PI = 3.14
+
 
 # Main function that will run when the file is executed
 def main():
@@ -34,7 +38,7 @@ def pythagorean(num1, num2):
 # Returns the circumference of a circle
 # Parameters: radius (raduis of the circle)
 def circumference(radius):
-	return 2 * math.pi * radius
+	return 2 * PI * radius
 	
 
 # Returns the area of a rectangle
