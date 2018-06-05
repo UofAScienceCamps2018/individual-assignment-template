@@ -9,7 +9,7 @@
 
 
 ### Code formatting
-An example has been provided in this repository, and is linked [here](https://github.com/UofAScienceCamps2018/individual-assignment-template/blob/master/individual-template.py)
+An example has been provided in this repository, and is linked [here](https://github.com/UofAScienceCamps2018/individual-assignment-template/blob/master/individual_template.py)
 
 ```python
 #!/usr/bin/env python
