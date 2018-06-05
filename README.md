@@ -1,4 +1,14 @@
 # Individual Assignment Template
+
+### Rules
+1. Asking your peers for help is okay, but try not to copy and paste their code
+2. If you get any code from peers or online sources, cite your sources
+3. Make sure your code is compatible with Python3 (some things you look up will work for Python2 but not Python3)
+
+**General rule of thumb:** If you can explain your code in your own words, that proves that you can understand it
+
+
+### Code formatting
 An example has been provided in this repository, and is linked [here](https://github.com/UofAScienceCamps2018/individual-assignment-template/blob/master/template.py)
 
 ```python
